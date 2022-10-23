@@ -1,3 +1,11 @@
+# To Participants of My Git & Github Training at CREB in Fall 2022
+
+This repository contains the slides from my training as well as other resources that you can check out in your spare time to learn more about Github.
+
+As I mentioned in the training, I've borrowed this training from my frieds at DIME analystics, and made some modifications to suit our purposes. 
+
+You can find the source materials below.
+
 # DIME GitHub Trainings and Resources
 
 This repo contains GitHub training materials and other GitHub resources. All content in this repository is published under the MIT License so anyone is free to use these resources in way the see fit. See [LICENSE](https://github.com/worldbank/dime-github-trainings/blob/master/LICENSE) for all details.
